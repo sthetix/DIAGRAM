@@ -9,3 +9,8 @@ There are three diagrams to choose from, but the most common is type A.
 ## Type B 
 
 ![Type A](https://github.com/sthetix/OLED-DIAGRAM/blob/main/OLED-DIAGRAM-TYPE-B.jpg)
+
+## Core 
+
+![Core](https://github.com/sthetix/OLED-DIAGRAM/blob/main/OLED-DIAGRAM-SX-CORE.jpg)
+
