@@ -12,5 +12,5 @@ There are three diagrams to choose from, but the most common is type A.
 
 ## Core 
 
-![Core](https://github.com/sthetix/OLED-DIAGRAM/blob/main/OLED-DIAGRAM-CORE.jpg)
+![Core](https://github.com/sthetix/OLED-DIAGRAM/blob/main/OLED-DIAGRAM-HW-SX-CORE.jpg)
 
