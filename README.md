@@ -2,6 +2,9 @@ Use this diagram to begin installing the modchip into the Switch OLED.
 
 There are three diagrams to choose from, but the most common is type A.
 
+Watch this video to get start modding : https://youtu.be/MH6tuykZiKY
+
+
 ## Type A 
 
 ![Type A](https://github.com/sthetix/OLED-DIAGRAM/blob/main/OLED-DIAGRAM-TYPE-A.jpg)
