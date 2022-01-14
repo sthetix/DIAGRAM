@@ -5,15 +5,11 @@ There are three diagrams to choose from, but the most common is type A.
 Watch this video to get start modding : https://youtu.be/MH6tuykZiKY
 
 
-## Type A 
+## HWFLY LITE / SX LITE
 
 ![Type A](https://github.com/sthetix/OLED-DIAGRAM/blob/main/OLED-DIAGRAM-TYPE-A.jpg)
 
-## Type B 
-
-![Type A](https://github.com/sthetix/OLED-DIAGRAM/blob/main/OLED-DIAGRAM-TYPE-B.jpg)
-
-## Core 
+##H WFLY CORE / SX CORE
 
 ![Core](https://github.com/sthetix/OLED-DIAGRAM/blob/main/OLED-DIAGRAM-SX-CORE-UPDATED.jpg)
 
