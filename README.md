@@ -7,7 +7,7 @@ Watch this video to get start modding : https://youtu.be/MH6tuykZiKY
 
 ## HWFLY LITE / SX LITE
 
-![Type A](https://github.com/sthetix/OLED-DIAGRAM/blob/main/OLED-DIAGRAM-TYPE-A.jpg)
+![Type A](https://github.com/sthetix/OLED-DIAGRAM/blob/main/OLED-DIAGRAM-LITE.jpg)
 
 ##H WFLY CORE / SX CORE
 
