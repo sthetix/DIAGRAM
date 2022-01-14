@@ -15,5 +15,5 @@ Watch this video to get start modding : https://youtu.be/MH6tuykZiKY
 
 ## Core 
 
-![Core](https://github.com/sthetix/OLED-DIAGRAM/blob/main/OLED-DIAGRAM-HW-SX-CORE.jpg)
+![Core](https://github.com/sthetix/OLED-DIAGRAM/blob/main/OLED-DIAGRAM-SX-CORE-UPDATED.jpg)
 
