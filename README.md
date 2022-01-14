@@ -9,7 +9,9 @@ Watch this video to get start modding : https://youtu.be/MH6tuykZiKY
 
 ![Type A](https://github.com/sthetix/OLED-DIAGRAM/blob/main/OLED-DIAGRAM-LITE.jpg)
 
-##H WFLY CORE / SX CORE
+## HWFLY CORE / SX CORE
 
 ![Core](https://github.com/sthetix/OLED-DIAGRAM/blob/main/OLED-DIAGRAM-SX-CORE-UPDATED.jpg)
 
+## OLED CHIP 
+![oled](https://github.com/sthetix/OLED-DIAGRAM/blob/main/OLED-DIAGRAM-CHIP-OLED.jpg)
