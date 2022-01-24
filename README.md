@@ -4,6 +4,8 @@ There are three diagrams to choose from.
 
 Watch this video to get start modding : https://youtu.be/MH6tuykZiKY
 
+Updated guide : https://youtu.be/sSBdltReQkg
+
 
 ## HWFLY LITE / SX LITE
 
