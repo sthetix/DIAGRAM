@@ -17,3 +17,11 @@ Updated guide : https://youtu.be/sSBdltReQkg
 
 ## OLED CHIP 
 ![oled](https://github.com/sthetix/OLED-DIAGRAM/blob/main/OLED-DIAGRAM-CHIP-OLED.jpg)
+
+
+## FLASHING WITH A HARDWARE PROGRAMMER
+
+If you need to flash / update / unbrick using a hardware programmer, please use this guide as your reference
+and follow this guide : https://youtu.be/RK5FQZe1MAs
+![GD-Link OB](https://github.com/sthetix/OLED-DIAGRAM/blob/main/OLED-CHIP-SWD-GDLINK-OB.jpg)
+![ST-Link](https://github.com/sthetix/OLED-DIAGRAM/blob/main/OLED-CHIP-SWD-ST-LINK.jpg)
