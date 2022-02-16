@@ -13,7 +13,7 @@ Updated guide : https://youtu.be/sSBdltReQkg
 
 ## HWFLY CORE / SX CORE
 
-![Core](https://github.com/sthetix/OLED-DIAGRAM/blob/main/OLED-DIAGRAM-SX-CORE-UPDATED.jpg)
+![Core](https://github.com/sthetix/OLED-DIAGRAM/blob/main/OLED-DIAGRAM-SX-CORE.jpg)
 
 ## OLED CHIP 
 ![oled](https://github.com/sthetix/OLED-DIAGRAM/blob/main/OLED-DIAGRAM-CHIP-OLED.jpg)
