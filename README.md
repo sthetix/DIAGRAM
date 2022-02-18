@@ -7,6 +7,13 @@ Watch this video to get start modding : https://youtu.be/MH6tuykZiKY
 Updated guide : https://youtu.be/sSBdltReQkg
 
 
+## FIRMWARE
+
+The release page contains the "official" firmware from the chinese manufacturer, but they are now miles behind the custom firmware.
+So to get the best of your flashable modchip, please use the custom firmware made by https://github.com/hwfly-nx
+
+
+
 ## HWFLY LITE / SX LITE
 
 ![Type A](https://github.com/sthetix/OLED-DIAGRAM/blob/main/OLED-DIAGRAM-LITE.jpg)
