@@ -12,6 +12,8 @@ Updated guide : https://youtu.be/sSBdltReQkg
 The release page contains the "official" firmware from the Chinese manufacturer, but they are now miles behind the custom firmware.
 So to get the best of your flashable modchip, please use the custom firmware made by https://github.com/hwfly-nx
 
+If you want to use the chinese firmware, please go to : https://www.chipnx.com/sup/
+
 
 
 ## HWFLY LITE / SX LITE
@@ -32,3 +34,4 @@ If you need to flash / update / unbrick using a hardware programmer, please use 
 and follow this guide : https://youtu.be/RK5FQZe1MAs
 ![GD-Link OB](https://github.com/sthetix/OLED-DIAGRAM/blob/main/OLED-CHIP-SWD-GDLINK-OB.jpg)
 ![ST-Link](https://github.com/sthetix/OLED-DIAGRAM/blob/main/OLED-CHIP-SWD-ST-LINK.jpg)
+
