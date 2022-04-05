@@ -28,7 +28,10 @@ If you want to use the chinese firmware, please go to : https://www.chipnx.com/s
 ![oled](https://github.com/sthetix/OLED-DIAGRAM/blob/main/OLED-DIAGRAM-CHIP-OLED.jpg)
 
 ## IF YOU WANT TO USE THE OLED CHIP ON V2, look at this diagram
+![v2](https://github.com/sthetix/MODCHIP-DIAGRAM/blob/main/OLED-on-V2-Diagram-Version-2.jpg)
+OR this
 ![v2](https://github.com/sthetix/MODCHIP-DIAGRAM/blob/main/OLED-on-V2.jpg)
+
 
 
 ## FLASHING WITH A HARDWARE PROGRAMMER
