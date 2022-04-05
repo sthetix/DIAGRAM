@@ -34,7 +34,7 @@ OR this
 
 
 
-## FLASHING WITH A HARDWARE PROGRAMMER
+##FLASHING WITH A HARDWARE PROGRAMMER
 
 If you need to flash / update / unbrick using a hardware programmer, please use this guide as your reference
 and follow this guide : https://youtu.be/RK5FQZe1MAs
@@ -42,10 +42,10 @@ and follow this guide : https://youtu.be/RK5FQZe1MAs
 ![GD-Link OB](https://github.com/sthetix/OLED-DIAGRAM/blob/main/OLED-CHIP-SWD-GDLINK-OB.jpg)
 ![ST-Link](https://github.com/sthetix/OLED-DIAGRAM/blob/main/OLED-CHIP-SWD-ST-LINK.jpg)
 
-# SX Core Chip
+#SX Core Chip
 ![GD-Link OB](https://github.com/sthetix/MODCHIP-DIAGRAM/blob/main/sxcore-schematics.jpg)
 
-# SX Lite Chip
+#SX Lite Chip
 ![GD-Link OB](https://github.com/sthetix/MODCHIP-DIAGRAM/blob/main/sxlite-schematics-2.jpg)
 
 
