@@ -30,6 +30,10 @@ If you want to use the chinese firmware, please go to : https://www.chipnx.com/s
 OR this
 ![v2](https://github.com/sthetix/MODCHIP-DIAGRAM/blob/main/OLED-on-V2.jpg)
 
+# IF YOU WANT TO USE THE OLED CHIP ON SWITCH LITE, look at this diagram
+
+![lite](https://github.com/sthetix/MODCHIP-DIAGRAM/blob/main/OLED%20on%20LITE.png)
+
 
 
 # FLASHING WITH A HARDWARE PROGRAMMER
