@@ -57,4 +57,5 @@ If somehow you don't have / lost the USB connector to flash the chip, you can fo
 ![sx core](https://github.com/sthetix/MODCHIP-DIAGRAM/blob/main/sxcore-usb-schematics.jpg)
 ## SX Lite Chip
 ![sx lite](https://github.com/sthetix/MODCHIP-DIAGRAM/blob/main/sxlite-usb-schematics.jpg)
+![oled](https://github.com/sthetix/MODCHIP-DIAGRAM/blob/main/OLED-CHIP-USB-Schematic.jpg)
 
