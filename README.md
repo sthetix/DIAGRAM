@@ -69,5 +69,5 @@ If somehow you don't have / lost the USB connector to flash the chip, you can fo
 ![patched Erista](https://github.com/sthetix/DIAGRAM/blob/main/USB-Patched-Erista-Pinout.jpg)
 
 ## OLED
-![OLED]https://github.com/sthetix/DIAGRAM/blob/main/USB-OLED-PINOUT.jpg
+![OLED](https://github.com/sthetix/DIAGRAM/blob/main/USB-OLED-PINOUT.jpg)
 
