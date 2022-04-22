@@ -64,6 +64,7 @@ If somehow you don't have / lost the USB connector to flash the chip, you can fo
 
 ## UNPATCHED ERISTA
 ![unpatched Erista](https://github.com/sthetix/DIAGRAM/blob/main/ERISTA-USB-TYPE-C-PINOUT.jpg)
+![unpatched Erista HAC-CPU-10](https://github.com/sthetix/DIAGRAM/blob/main/USB-Erista-HAC-CPU-10-Pinout.jpg)
 
 ## PATCHED ERISTA
 ![patched Erista](https://github.com/sthetix/DIAGRAM/blob/main/USB-Patched-Erista-Pinout.jpg)
