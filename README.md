@@ -75,3 +75,6 @@ If somehow you don't have / lost the USB connector to flash the chip, you can fo
 ## OLED
 ![OLED](https://github.com/sthetix/DIAGRAM/blob/main/USB-OLED-PINOUT.jpg)
 
+## LITE
+![lite](https://github.com/sthetix/DIAGRAM/blob/main/USB-LITE-PINOUT.jpg)
+
