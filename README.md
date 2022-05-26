@@ -40,9 +40,14 @@ OR this
 
 If you need to flash / update / unbrick using a hardware programmer, please use this guide as your reference
 and follow this guide : https://youtu.be/RK5FQZe1MAs
+
 # OLED V3 Chip
 ![GD-Link OB](https://github.com/sthetix/OLED-DIAGRAM/blob/main/OLED-CHIP-SWD-GDLINK-OB.jpg)
 ![ST-Link](https://github.com/sthetix/OLED-DIAGRAM/blob/main/OLED-CHIP-SWD-ST-LINK.jpg)
+
+# Flashable Core Chip
+![GD-Link OB](https://github.com/sthetix/DIAGRAM/blob/main/Flashable-Core-SWD.jpg)
+
 
 ## SX Core Chip
 ![GD-Link OB](https://github.com/sthetix/MODCHIP-DIAGRAM/blob/main/sxcore-schematics.jpg)
