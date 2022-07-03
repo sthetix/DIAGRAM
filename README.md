@@ -83,3 +83,5 @@ If somehow you don't have / lost the USB connector to flash the chip, you can fo
 ## LITE
 ![lite](https://github.com/sthetix/DIAGRAM/blob/main/USB-LITE-PINOUT.jpg)
 
+# IF YOUR JOYCON NOT HANDSHAKING
+![OLED](https://github.com/sthetix/DIAGRAM/blob/main/OLED-JOYCON-ERROR.jpg)
