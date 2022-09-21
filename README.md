@@ -12,7 +12,7 @@ Updated guide : https://youtu.be/sSBdltReQkg
 The release page contains the "official" firmware from the Chinese manufacturer, but they are now miles behind the custom firmware.
 So to get the best of your flashable modchip, please use the custom firmware made by https://github.com/hwfly-nx
 
-If you want to use the chinese firmware, please go to : https://www.chipnx.com/sup/
+If you want to use the chinese firmware, please download it from here : http://u.pc.cd/SHO
 
 # HWFLY LITE / SX LITE
 
@@ -21,6 +21,10 @@ If you want to use the chinese firmware, please go to : https://www.chipnx.com/s
 # HWFLY CORE / SX CORE
 
 ![Core](https://github.com/sthetix/OLED-DIAGRAM/blob/main/OLED-DIAGRAM-CORE.jpg)
+
+# FLASHABLE CORE
+
+![Flashable Core](https://github.com/sthetix/DIAGRAM/blob/main/OLED-DIAGRAM-FLASHABLE-CORE.jpg)
 
 # OLED CHIP 
 ![oled](https://github.com/sthetix/OLED-DIAGRAM/blob/main/OLED-DIAGRAM-CHIP-OLED.jpg)
