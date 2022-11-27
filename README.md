@@ -1,18 +1,7 @@
-Use this diagram to begin installing the modchip into the Switch OLED.
-
-There are three diagrams to choose from. 
-
-Watch this video to get start modding : https://youtu.be/MH6tuykZiKY
-
-Updated guide : https://youtu.be/sSBdltReQkg
+Use this diagram for various use.
 
 
-## FIRMWARE
 
-The release page contains the "official" firmware from the Chinese manufacturer, but they are now miles behind the custom firmware.
-So to get the best of your flashable modchip, please use the custom firmware made by https://github.com/hwfly-nx
-
-If you want to use the chinese firmware, please download it from here : http://u.pc.cd/SHO
 
 # HWFLY LITE / SX LITE
 
@@ -89,3 +78,5 @@ If somehow you don't have / lost the USB connector to flash the chip, you can fo
 
 # IF YOUR JOYCON NOT HANDSHAKING
 ![OLED](https://github.com/sthetix/DIAGRAM/blob/main/OLED-JOYCON-ERROR.jpg)
+
+# RCM-X86 ON UNPATCHED ERISTA
