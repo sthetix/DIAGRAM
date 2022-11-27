@@ -80,3 +80,4 @@ If somehow you don't have / lost the USB connector to flash the chip, you can fo
 ![OLED](https://github.com/sthetix/DIAGRAM/blob/main/OLED-JOYCON-ERROR.jpg)
 
 # RCM-X86 ON UNPATCHED ERISTA
+![UNPATCHED ERISTA](https://github.com/sthetix/DIAGRAM/blob/main/Unpatched%20Erista%20RCM-X86.png)
