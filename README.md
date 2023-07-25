@@ -1,5 +1,9 @@
 Use this diagram for various use.
 
+# INSTINCT-NX SWD POINTS
+
+![SWD Points](https://github.com/sthetix/DIAGRAM/blob/main/Instinct-NX-SWD-Points.jpg)
+
 
 
 
