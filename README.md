@@ -4,7 +4,8 @@ Use this diagram for various use.
 
 ![SWD Points](https://github.com/sthetix/DIAGRAM/blob/main/Instinct-NX-SWD-Points.jpg)
 
-
+# INSTINCT-NX ON THE OLED
+![Instinct-NX on the OLED](https://github.com/sthetix/DIAGRAM/blob/main/Instinct-NX-OLED.jpg)
 
 
 # HWFLY LITE / SX LITE
