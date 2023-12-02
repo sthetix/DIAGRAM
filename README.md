@@ -1,4 +1,8 @@
-Use this diagram for various use.
+Use this diagram for various uses.
+
+# OLED TOP SOLDERING POINTS
+
+![OLED](https://github.com/sthetix/DIAGRAM/blob/main/OLED_TOP_SOLDERING_POINTS.jpg)
 
 # INSTINCT-NX SWD POINTS
 
