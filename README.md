@@ -4,6 +4,9 @@ Use this diagram for various uses.
 
 ![OLED](https://github.com/sthetix/DIAGRAM/blob/main/OLED_TOP_SOLDERING_POINTS.jpg)
 
+# INSTINCT-NX V6S SWD POINTS
+![SWD Points](https://github.com/sthetix/DIAGRAM/blob/main/Instinct-NX-V6S-SWD-Points.jpg)
+
 # INSTINCT-NX SWD POINTS
 
 ![SWD Points](https://github.com/sthetix/DIAGRAM/blob/main/Instinct-NX-SWD-Points.jpg)
